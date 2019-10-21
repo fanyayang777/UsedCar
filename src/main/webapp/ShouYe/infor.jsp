@@ -79,7 +79,7 @@
 </div>
 <div class="navigation">
     <div class="nav-cent">
-        <div class="logo"><a href="index.html"><img src="images/logo.png" width="240" /></a></div>
+        <div class="logo"><a href="index.jsp"><img src="images/1logo.jpg" width="240" /></a></div>
         <div class="city"> <span id="DY_site_name" class="red city-name Left">合肥</span>
             <div id="JS_hide_city_menu_11" class="city-select cut_handdler Left"> <a href="javascript:void(0);" class="common-bg selector">切换城市</a>
                 <div id="JS_header_city_bar_box" class="hide_city_group">
@@ -119,7 +119,7 @@
     <li class="active"><a href="index.html">首页</a><span></span></li>
     <li><a href="list.html">我要买车</a><span></span></li>
     <li><a href="wymc.html">我要卖车</a><span></span></li>
-    <li><a href="#">阳光联盟</a><span></span></li>
+    <li><a href="#">龙城联盟</a><span></span></li>
     <li><a href="#">我要加盟</a><span></span></li>
 </ul>
 <div class="clear_fix"></div>
@@ -208,7 +208,7 @@
                 </div>
                 <!--优势-->
                 <div class="advantage">
-                    <h3>阳光好车已对该车辆进行检测，并将提供售后服务及保障。</h3>
+                    <h3>龙城好车已对该车辆进行检测，并将提供售后服务及保障。</h3>
                     <div class="ind-dz-lc">
                         <ul>
                             <li>
@@ -391,7 +391,7 @@
         </div>
         <div class="modbox1 combox">
             <div class="detecttitle">
-                <h3 class="yahei f30">阳光好车车辆检测报告</h3>
+                <h3 class="yahei f30">龙城好车车辆检测报告</h3>
                 <span>检测时间：2016-11-09</span> <span>检测车型：<a href="/cc/buick/">别克</a>-<a href="/cc/yinglangxt/">英朗</a>-2010款 英朗GT 1.6 手动 进取版 </span> <span>检测师：宋哲 </span> </div>
             <div class="linetype"></div>
             <div class="headline-bd" id="accident"> <span class="headline yahei">事故排查</span> <span class="f14">该车骨架完好，排除事故车，排除泡水车，排除火烧车。</span> </div>
@@ -1073,7 +1073,7 @@
                         <!--提醒按钮-->
                         <!--<i class="icon-no"></i>-->
                     </li>
-                    <li class="p-tips">填写手机，阳光客服将在30分钟内联系您看车。</li>
+                    <li class="p-tips">填写手机，龙城客服将在30分钟内联系您看车。</li>
                 </ul>
                 <div class="login-button">
                     <input type="button"  value="确定" class="fM" onclick="sendtosend()" style="line-height:20px" />
@@ -1094,7 +1094,7 @@ $("#sendMESStx").live("click",function(){
     <div class="popForm">
         <div class="p-detail">
             <form action="" enctype="multipart/form-data" method="post" name="yzmcheck" id="yzmcheck">
-                <p class="p-tit">填写手机，阳光客服将在30分钟内联系您看车。</p>
+                <p class="p-tit">填写手机，龙城客服将在30分钟内联系您看车。</p>
                 <ul class="login-items" style="width:100%">
                     <li>
                         <label>手机号</label>
