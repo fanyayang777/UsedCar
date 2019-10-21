@@ -1,0 +1,1 @@
+"use strict";define("page/aboutus",function(){return{init:function(){}}}),"undefined"==typeof window.__karma__&&require(["page/aboutus"],function(n){n.init()});
