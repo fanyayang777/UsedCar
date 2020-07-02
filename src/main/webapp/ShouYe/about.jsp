@@ -154,7 +154,7 @@
 </div>
 <div class="navigation">
     <div class="nav-cent">
-        <div class="logo"><a href="index.html"><img src="images/logo.png" width="240" /></a></div>
+        <div class="logo"><a href="index.html"><img src="images/1logo.jpg" width="240" /></a></div>
         <div class="city"> <span id="DY_site_name" class="red city-name Left">合肥</span>
             <div id="JS_hide_city_menu_11" class="city-select cut_handdler Left"> <a href="javascript:void(0);" class="common-bg selector">切换城市</a>
                 <div id="JS_header_city_bar_box" class="hide_city_group">
@@ -194,7 +194,7 @@
     <li class="active"><a href="index.html">首页</a><span></span></li>
     <li><a href="list.html">我要买车</a><span></span></li>
     <li><a href="wymc.html">我要卖车</a><span></span></li>
-    <li><a href="#">阳光联盟</a><span></span></li>
+    <li><a href="#">龙城联盟</a><span></span></li>
     <li><a href="#">我要加盟</a><span></span></li>
 </ul>
 <div class="clear_fix"></div>
@@ -202,11 +202,11 @@
     <div class="stress-close"><a href="javascript:;"></a></div>
     <div class="nav-cents">
         <ul>
-            <li class="logo"><a href="index.html"><img src="images/logo.png"  width="180"/></a></li>
+            <li class="logo"><a href="index.html"><img src="images/1logo.jpg"  width="180"/></a></li>
             <li><a href="index.html">首页</a></li>
             <li><a href="list.html">我要买车</a></li>
             <li><a href="wymc.html">我要卖车</a></li>
-            <li><a href="#">阳光联盟</a></li>
+            <li><a href="#">龙城联盟</a></li>
             <li><a href="#">我要加盟</a></li>
         </ul>
         <div class="seas">
@@ -235,8 +235,8 @@
             <div class="main_con">
                 <div class="crumbs"><span>关于我们</span></div>
                 <div class="containers clearfix">
-                    <p> &nbsp;&nbsp;&nbsp;&nbsp;阳光好车中国领先的认证二手车O2O交易服务平台，致力于为消费者提供集二手车认证、线上选车、交易服务、售后保障及金融等一站式购车服务。。</p>
-                    <p> &nbsp;&nbsp;&nbsp;&nbsp;阳光好车1058项全面检测，呈现真实、透明车况。并首创国际先进科技的验车神器——360度全景无影检测拍摄系统，将每一台二手车都转化成照片和视频在云端全方位记录。</p>
+                    <p> &nbsp;&nbsp;&nbsp;&nbsp;龙城好车中国领先的认证二手车O2O交易服务平台，致力于为消费者提供集二手车认证、线上选车、交易服务、售后保障及金融等一站式购车服务。。</p>
+                    <p> &nbsp;&nbsp;&nbsp;&nbsp;龙城好车1058项全面检测，呈现真实、透明车况。并首创国际先进科技的验车神器——360度全景无影检测拍摄系统，将每一台二手车都转化成照片和视频在云端全方位记录。</p>
 
 
                     <p> &nbsp;&nbsp;&nbsp;&nbsp;对二手车经销商的业务需求，输出认证品牌，认证体系，线上+线下运营体系以及售后增值产品体系，帮助平台合伙人建立品牌，提高业务效能。</p>

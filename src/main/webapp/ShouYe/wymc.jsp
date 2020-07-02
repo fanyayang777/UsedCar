@@ -154,7 +154,7 @@
 </div>
 <div class="navigation">
     <div class="nav-cent">
-        <div class="logo"><a href="index.html"><img src="images/logo.png" width="240" /></a></div>
+        <div class="logo"><a href="index.jsp"><img src="images/1logo.jpg" width="240" /></a></div>
         <div class="city"> <span id="DY_site_name" class="red city-name Left">太原</span>
             <div id="JS_hide_city_menu_11" class="city-select cut_handdler Left"> <a href="javascript:void(0);" class="common-bg selector">切换城市</a>
                 <div id="JS_header_city_bar_box" class="hide_city_group">
@@ -191,10 +191,10 @@
     </div>
 </div>
 <ul class="navmenu">
-    <li class="active"><a href="index.html">首页</a><span></span></li>
-    <li><a href="list.html">我要买车</a><span></span></li>
-    <li><a href="wymc.html">我要卖车</a><span></span></li>
-    <li><a href="#">阳光联盟</a><span></span></li>
+    <li class="active"><a href="index.jsp">首页</a><span></span></li>
+    <li><a href="list.jsp">我要买车</a><span></span></li>
+    <li><a href="wymc.jsp">我要卖车</a><span></span></li>
+    <li><a href="#">龙城联盟</a><span></span></li>
     <li><a href="#">我要加盟</a><span></span></li>
 </ul>
 <div class="clear_fix"></div>
@@ -202,11 +202,11 @@
     <div class="stress-close"><a href="javascript:;"></a></div>
     <div class="nav-cents">
         <ul>
-            <li class="logo"><a href="index.html"><img src="images/logo.png"  width="180"/></a></li>
-            <li><a href="index.html">首页</a></li>
-            <li><a href="list.html">我要买车</a></li>
-            <li><a href="wymc.html">我要卖车</a></li>
-            <li><a href="#">阳光联盟</a></li>
+            <li class="logo"><a href="index.jsp"><img src="images/1logo.jpg"  width="180"/></a></li>
+            <li><a href="index.jsp">首页</a></li>
+            <li><a href="list.jsp">我要买车</a></li>
+            <li><a href="wymc.jsp">我要卖车</a></li>
+            <li><a href="#">龙城联盟</a></li>
             <li><a href="#">我要加盟</a></li>
         </ul>
         <div class="seas">
@@ -263,7 +263,7 @@
                 续齐全即可在我们平台出售。。 </div>
         </li>
         <li class="fl">
-            <p class="p1">Q5：在阳光好车能卖到理想价位吗？</p>
+            <p class="p1">Q5：在龙城好车能卖到理想价位吗？</p>
             <div class="txt-box"> 您只要提交信息，我们就会通过大数
                 据定价系统出具报价，如果您对此价
                 格不满意，我们还会获取百万用户和
@@ -288,7 +288,7 @@
                 </div>
                 <div class="items">
                     <div class="tit"><i class="icon-angle-right"></i>客服中心</div>
-                    <div class="con"> <a href="abut.html">网站合作</a> <a href="about.html">关于我们</a> <a href="contact.html">联系我们</a> </div>
+                    <div class="con"> <a href="abut.jsp">网站合作</a> <a href="about.jsp">关于我们</a> <a href="contact.jsp">联系我们</a> </div>
                 </div>
                 <div class="items">
                     <div class="tit"><i class="icon-angle-right"></i>购车指南</div>
